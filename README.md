@@ -23,7 +23,7 @@ To evaluate how the trained model rendered clear images from input noisy images,
 
 ### Result
 
-![Optional Text](../master/myFolder/image.png)
+![result](../master/results.png)
 
 
 References:
