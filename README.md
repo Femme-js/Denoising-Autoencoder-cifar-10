@@ -21,6 +21,10 @@ Training is carried out for 100 epochs with mini-batches of 128 images. Loss is 
 
 To evaluate how the trained model rendered clear images from input noisy images, we calculated the mean squared error of the whole cifar10 dataset. To finally test the performance of the model on the unseen data,  the output for the test data is observed and the corresponding test loss and accuracy is measured.
 
+### Result
+
+![Optional Text](../master/myFolder/image.png)
+
 
 References:
 http://stanford.edu/class/ee367/Winter2019/dua_report.pdf
